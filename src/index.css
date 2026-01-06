@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f8f9fa;
+  background-color: #f8f9fa;
 }
 
 button {
@@ -10,4 +10,8 @@ button {
   color: white;
   border: none;
   cursor: pointer;
+}
+
+button:hover {
+  background: #084298;
 }

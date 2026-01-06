@@ -19,7 +19,7 @@ const SymptomForm = ({ onSubmit }) => {
         style={{ width: "80%", padding: "10px" }}
       />
       <br /><br />
-      <button>Check Symptoms</button>
+      <button type="submit">Check Symptoms</button>
     </form>
   );
 };
